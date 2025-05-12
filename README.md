@@ -33,12 +33,6 @@
   - `matplotlib`
   - `scipy`
 
-可以通过以下命令安装依赖：
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 使用方法
 
 1. 进入项目目录：
