@@ -61,11 +61,11 @@ python main.py
 
 运行效果示例：
 主界面
-![主界面](.\OperatingInterface\main.png)
+![主界面](./OperatingInterface/main.png)
 计算界面
-![计算界面](.\OperatingInterface\intg.png)
+![计算界面](./OperatingInterface/intg.png)
 可视化界面
-![可视化界面](.\OperatingInterface\visl.png)
+![可视化界面](./OperatingInterface/visl.png)
 
 
 ## 贡献
